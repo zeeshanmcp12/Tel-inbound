@@ -21,3 +21,5 @@ webbrowser.open(seible)
 ##  ICBS
 
 webbrowser.open('//10.218.14.168:7782/frameset/login.action')
+
+webbrowser.open('https://www.youtube.com')
